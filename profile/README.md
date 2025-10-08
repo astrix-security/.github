@@ -53,7 +53,7 @@ With Astrix, customers get one unified solution to close the most urgent identit
 ## Get in Touch
 
 * 🌐 Website: [astrix.security](https://astrix.security/)
-* 📅 Request a Demo: [astrix.security/demo](https://astrix.security/demo/)
+* 📅 Request a Demo: [astrix.security/demo](https://astrix.security/schedule-a-live-demo/)
 * 📖 Blog: [astrix.security/blog](https://astrix.security/blog/)
 * 📧 Email: info@astrix-security.com
 
