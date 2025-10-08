@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://astrix.security/wp-content/uploads/2024/02/astrix-logo-color.svg" alt="Astrix Security Logo" width="200">
-</p>
-
 # AI Agent Security
 
 ### Discover, secure, and deploy AI agents responsibly across the enterprise.
@@ -62,10 +58,6 @@ With Astrix, customers get one unified solution to close the most urgent identit
 * 📧 Email: info@astrix-security.com
 
 <p align="center">
-  <a href="https://twitter.com/AstrixSecurity">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Follow us on X">
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/company/astrix-security/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow us on LinkedIn">
   </a>
